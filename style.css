@@ -1,0 +1,394 @@
+#frist-prt {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.h-part {
+
+    font-family: cursive;
+    width: 600px;
+    margin-top: 160px;
+    margin-left: 100px;
+}
+
+
+.h-part h1 {
+    font-size: 60px;
+    transition: 6s all ease;
+}
+
+.h-part h1:hover {
+    color: crimson;
+    transition: 6s all ease;
+
+
+}
+
+.h-part span {
+    color: deeppink;
+    transition: 8s all ease;
+}
+
+.h-part span:hover {
+    color: aqua;
+    transition: 8s all ease;
+
+
+}
+
+.h-part button {
+    padding: 10px 15px;
+    background-color: coral;
+    cursor: pointer;
+    border: none;
+    transition: 8s all ease;
+}
+
+.h-part button:hover {
+    background-color: darkturquoise;
+    color: cornflowerblue;
+    transition: 8s all ease;
+}
+
+.ri-pic img {
+    width: 550px;
+    height: 600px;
+    margin-top: 150px;
+    background-color: darkorange;
+    margin-right: 100px;
+}
+
+#main {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: palevioletred;
+    height: 755px;
+    margin-top: 120px;
+}
+
+.pic-prt img {
+    height: 630px;
+    width: 520px;
+    margin-top: 120px;
+    margin-left: 100px;
+
+}
+
+.r {
+    margin-top: 160px;
+}
+
+
+.r h1 {
+    font-size: 60px;
+    font-family: monospace;
+    transition: 7s all ease;
+
+}
+
+.r h1:hover {
+    color: coral;
+    transition: 4s all ease;
+}
+
+.r h3 {
+    font-family: cursive;
+    font-weight: 400px;
+}
+
+.r button {
+    padding: 10px 15px;
+    background-color: darkmagenta;
+    cursor: pointer;
+    border: none;
+    transition: 5s all ease;
+    margin-top: 30px;
+}
+
+.r button:hover {
+    background-color: tomato;
+    transition: 5s all ease;
+    color: azure;
+}
+
+#hd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.bi h1 {
+    font-size: 50px;
+    font-family: cursive;
+    transition: 7s all ease;
+
+}
+
+.bi h1:hover {
+    color: blueviolet;
+    font-family: poppines;
+    font-weight: bold;
+    transition: 7s all ease;
+    cursor: pointer;
+}
+
+.bi h4 {
+    font-weight: 400px;
+}
+
+
+
+
+#bnr {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    width: 1600px;
+    margin-left: 200px;
+}
+
+
+
+.left {
+    margin-top: 100px;
+    box-shadow: 20px 0 10px -20px rgba(0, 0, 0, 0.45) inset;
+    padding: 10px 12px;
+}
+
+
+.pic img {
+    height: 250px;
+    width: 330px;
+}
+
+.wrt h2 {
+    font-size: 35px;
+    font-family: serif;
+}
+
+.wrt h4 {
+    font-weight: 400px;
+}
+
+.mid {
+    margin-top: 100px;
+    box-shadow: 0px -23px 25px 0px rgba(0, 0, 0, 0.17) inset, 0px -36px 30px 0px rgba(0, 0, 0, 0.15) inset, 0px -79px 40px 0px rgba(0, 0, 0, 0.1) inset, 0px 2px 1px rgba(0, 0, 0, 0.06), 0px 4px 2px rgba(0, 0, 0, 0.09), 0px 8px 4px rgba(0, 0, 0, 0.09), 0px 16px 8px rgba(0, 0, 0, 0.09);
+    padding: 10px 12px;
+    width: 330px;
+
+}
+
+
+.pc img {
+    height: 250px;
+    width: 330px;
+
+}
+
+.wr h2 {
+    font-size: 35px;
+    font-family: serif;
+
+
+}
+
+.wr h4 {
+    font-weight: 400px;
+
+}
+
+.right {
+    margin-top: 100px;
+    box-shadow: 0 20px 10px -20px rgba(0, 0, 0, 0.45) inset, -20px 0 10px -20px rgba(0, 0, 0, 0.45) inset;
+    padding: 10px 12px;
+    width: 330px;
+
+}
+
+
+.p img {
+    height: 250px;
+    width: 330px;
+}
+
+.w h2 {
+    font-size: 35px;
+    font-family: serif;
+
+}
+
+.w h4 {
+    font-weight: 400px;
+}
+
+#bb {
+    display: flex;
+    margin-left: 150px;
+    width: 1500px;
+    margin-top: 120px;
+    justify-content: center;
+    padding: 44px 130px;
+    box-shadow: 0 29px 52px rgba(0, 0, 0, 0.40), 0 25px 16px rgba(0, 0, 0, 0.20);
+}
+
+
+
+.lf h1 {
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: 700px;
+    margin-right: 200px;
+}
+
+.lf h5 {
+    font-family: monospace;
+    font-weight: 700px;
+    margin-right: 200px;
+}
+
+.md h1 {
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: 700px;
+
+}
+
+.md h5 {
+    font-family: monospace;
+    font-weight: 700px;
+}
+
+.lst h1 {
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: 700px;
+    padding-left: 200px;
+}
+
+.lst h5 {
+    font-family: monospace;
+    font-weight: 700px;
+    padding-left: 200px;
+
+}
+
+#l {
+    margin-top: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: rgb(87, 83, 83);
+}
+
+
+
+.fn h1 {
+    color: antiquewhite;
+    font-size: 60px;
+    font-family: cursive;
+
+}
+
+.fn span {
+    color: violet;
+}
+
+.fn h3 {
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+
+.st h1 {
+    font-size: 60px;
+    font-family: cursive;
+
+}
+
+.st h3 {
+    font-family: poppins;
+    color: gray;
+}
+
+label {
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+
+input {
+    padding: 12px 80px;
+}
+
+button {
+    padding: 13px 23px;
+    background-color: tomato;
+    transition: 8s all ease;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(79, 40, 253);
+    color: rgb(27, 27, 26);
+    transition: 8s all ease;
+}
+
+
+.bcg{
+   
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    width:400px;
+    padding: 12px 14px ;
+}
+.pi img{
+    height: 500px;
+    width: 700px;
+}
+
+.from{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin: 130px;
+  
+}
+
+
+
+
+.my{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+}
+.my h1{font-size: 90px;
+    font-family: cursive;
+    color: aqua;
+        transition: 8s all ease;
+
+}
+.my h1:hover{
+    font-size: 70px;
+    font-family: monospace;
+    color: teal;
+    cursor: pointer;
+    transition: 8s all ease;
+
+}
+.my span{
+    color: black;
+}
